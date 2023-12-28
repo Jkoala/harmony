@@ -1,0 +1,6 @@
+{
+  "src": [
+    "pages/GridPage",
+    "pages/sub/Page1"
+  ]
+}
